@@ -41,5 +41,5 @@ def InputThing(name):
         for letter in name:
             print(letter)
 name = input()
-print("Put in your name")
+print("Put in your name, not your irl name")
 InputThing(name)
