@@ -25,6 +25,7 @@ class Lang:
             print("thank yu sw muwuch")
         print("gib fud")
         print("uwusual henlo wrld lul")
+        print("uwu i made this script")
     else:
         swearsallowed = True
         if swearsallowed:
@@ -33,3 +34,4 @@ class Lang:
             print("thank you SO mch")
         print("give me food")
         print("usual hello world lol")
+        print("I made this script")
