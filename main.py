@@ -40,8 +40,7 @@ def InputThing(name):
         print("Please Input")
     else:
         print("Hello")
-        for letter in name:
-            print(letter)
+        print(name)
 print("Put in your name, not your irl name")
 name = input()
 InputThing(name)
