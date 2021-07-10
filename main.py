@@ -24,11 +24,11 @@ class Lang:
         print("uwu i made this script")
         print("I am sorry for making this thing an option")
     else:
-        swearsallowed = True
+        swearsallowed = False
         if swearsallowed:
             print("NOPE")
         else:
-            print("thank you SO much")
+            print("thank you SO much for not enabling lolcat")
         print("give me food")
         print("usual hello world lol")
         print("I made this script")
