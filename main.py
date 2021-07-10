@@ -39,9 +39,9 @@ def InputThing(name):
     if name == '':
         print("Please Input")
     else:
-        print("Hello Lol")
+        print("Hello")
         for letter in name:
             print(letter)
-name = input()
 print("Put in your name, not your irl name")
+name = input()
 InputThing(name)
