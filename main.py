@@ -9,7 +9,7 @@ int('120')
 print(number + 1)
 
 dir(5)
-
+randnumgenerator = random.randint(0, 100)
 class Lang:
     isLolLangActivated = False
 
@@ -22,6 +22,7 @@ class Lang:
         print("gib fud")
         print("uwusual henlo wrld lul")
         print("uwu i made this script")
+        print("I am sorry for making this thing an option")
     else:
         swearsallowed = True
         if swearsallowed:
@@ -31,6 +32,7 @@ class Lang:
         print("give me food")
         print("usual hello world lol")
         print("I made this script")
+        print(randnumgenerator)
 
 
 def InputThing(name):
