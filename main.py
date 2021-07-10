@@ -1,5 +1,4 @@
 import random
-
 random.randint(0, 100)
 number = 19
 number + 1
@@ -44,3 +43,8 @@ def InputThing(name):
 print("Put in your name, not your irl name")
 name = input()
 InputThing(name)
+
+#random json thing
+
+with open('testforuseinmymod.json', 'w') as f:
+    print("The json file is created")
